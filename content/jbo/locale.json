@@ -1,0 +1,24 @@
+{
+  "Index": "Index",
+  "Next": "bavla'i",
+  "Previous": "prula'i",
+  "Translation": "xe fanva",
+
+  "Consonants": "zunsna",
+  "Labial": "ctebi",
+  "Coronal": "Coronal",
+  "Dorsal": "Dorsal",
+
+  "Vowels": "karsna",
+  "Front": "crane",
+  "Central": "midju",
+  "Back": "trixe",
+
+  "translate": "ko fanva le jufra",
+  "translate_word": "Which of these means...",
+  "check": "gau cipra",
+  "continue": "gau ranji",
+  "incorrect": "❌ na'e drani .i di'e drani fa'o",
+  "correct": "✅ drani .e'adai",
+  "done": "🎉 All exercises completed!"
+}
